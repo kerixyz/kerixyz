@@ -3,7 +3,7 @@ Hey, I'm Keri.
 I'm a PhD student @ UW HCDE. Right now I'm thinking about equity and feedback in live streaming communities. I'm always looking for movie recommendations :) 
 
 [My personal website](https://keri.xyz/) <br />
-[My twitter →] (https://twitter.com/kerixyz) <br />
+[My twitter →](https://twitter.com/kerixyz)
 
 
 <!--
