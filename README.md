@@ -2,7 +2,7 @@ Hello! I'm Keri
 
 I'm a research and data scientist working at a nonprofit for social good :) 
 
-I studied feedback and online communities for my PhD!
+I studied feedback and online communities for my PhD
 
 <!--
 **kerixyz/kerixyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
