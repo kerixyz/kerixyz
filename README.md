@@ -1,8 +1,8 @@
-Hello! I'm Keri
+hello! i'm keri
 
-I'm a research and data scientist working at a nonprofit for social good :) 
-
-I studied feedback and online communities for my PhD
+- research and data scientist working at techimpact, a nonprofit for social good
+- research affiliate at the intersectional tech lab at umich
+- studied feedback exchange in live stream communities for my phd at uw 
 
 <!--
 **kerixyz/kerixyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
